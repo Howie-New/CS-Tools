@@ -1,0 +1,9 @@
+Git is a version control system;
+Git is a distributed version control system;
+Git is a free software;
+
+Git is easy to use and it really hava a good performance;
+Git is free software distributed under the GPL;
+Git has a mutable index called stage;
+
+Add a new line from local device.
